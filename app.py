@@ -15,16 +15,7 @@ footer {visibility: hidden;}
 </style>
 """, unsafe_allow_html=True)
 
-# =====================================================
-# PAGE CONFIGURATION
-# =====================================================
 
-st.set_page_config(
-    page_title="SkillForge AI",
-    page_icon="🚀",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
 
 # =====================================================
 # LOAD CSS

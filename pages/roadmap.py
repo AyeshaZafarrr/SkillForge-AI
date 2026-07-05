@@ -2,6 +2,7 @@ import streamlit as st
 from resources import ROADMAP_RESOURCES
 from career_roadmaps import AI_ROADMAPS
 
+
 # =====================================
 # PAGE CONFIG
 # =====================================
@@ -43,6 +44,7 @@ career = st.session_state.get(
     "Machine Learning Engineer"
 )
 
+
 name = st.session_state.get(
     "name",
     "User"
@@ -81,11 +83,11 @@ st.write("")
 # DYNAMIC ROADMAP
 # =====================================
 
-selected = AI_ROADMAPS.get(
-    career,
-    AI_ROADMAPS["Machine Learning Engineer"]
-)
+if career not in AI_ROADMAPS:
+    st.error(f"No roadmap available for {career}")
+    st.stop()
 
+selected = AI_ROADMAPS[career]
 roadmap = []
 
 for i, data in enumerate(selected):

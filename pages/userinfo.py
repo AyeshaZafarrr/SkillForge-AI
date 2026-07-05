@@ -248,6 +248,7 @@ if submitted:
         st.session_state["current_role"] = final_role
         st.session_state["skills"] = final_skills
         st.session_state["experience"] = experience
+        st.write("DEBUG:", repr(final_career))
         st.session_state["dream_career"] = final_career
 
         # ---------------- Success ---------------- #

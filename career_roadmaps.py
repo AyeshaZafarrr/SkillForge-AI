@@ -82,6 +82,28 @@ AI_ROADMAPS = {
 ("☁ AWS","6 Days","Intermediate"),
 ("🔄 Terraform","6 Days","Advanced")
 
+],
+"Software Engineer":[
+
+("🐍 Python Programming","5 Days","Intermediate"),
+("🏗 Object-Oriented Programming","5 Days","Intermediate"),
+("🗄 Data Structures & Algorithms","8 Days","Advanced"),
+("💾 Databases (SQL)","5 Days","Intermediate"),
+("🌐 Software Architecture","6 Days","Advanced"),
+("🐙 Git & GitHub","4 Days","Beginner"),
+("🚀 Software Engineering Projects","7 Days","Advanced")
+
+],
+"Full Stack Developer":[
+
+("🌐 HTML & CSS","4 Days","Beginner"),
+("⚡ JavaScript","6 Days","Intermediate"),
+("⚛ React","8 Days","Advanced"),
+("🐍 FastAPI","6 Days","Intermediate"),
+("🗄 SQL Database","5 Days","Intermediate"),
+("🐳 Docker","4 Days","Intermediate"),
+("🚀 Full Stack Deployment","7 Days","Advanced")
+
 ]
 
 }
