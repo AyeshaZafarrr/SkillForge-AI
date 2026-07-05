@@ -65,7 +65,8 @@ assets/
 
 ---
 
-📌 Key Highlights
+## 📌 Key Highlights
+
 Fully AI-powered career guidance system
 
 Dynamic scoring based on skills + resume + progress
@@ -74,15 +75,25 @@ Real-world job preparation roadmap
 
 Clean modern UI using Streamlit
 
-🔮 Future Improvements
+
+## 🔮 Future Improvements
 
 AI Chatbot Career Mentor
 
 Firebase Authentication
 
 
-👩‍💻 Developer
+## 👩‍💻 Developer
 
 Designed and developed by Ayesha Zafar
 
-💡 SkillForge AI – Your Personalized AI Career Coach
+## 💡 SkillForge AI – Your Personalized AI Career Coach
+
+## 🔗 Connect
+
+🌐 Live App: https://skillforge-ai-rtrjsumktj5zifxdhkgmyq.streamlit.app/projects
+🔗 LinkedIn: https://www.linkedin.com/in/ayesha-zafar-083741358/ 
+
+---
+
+⭐ If you like this project, don't forget to star the repo!
