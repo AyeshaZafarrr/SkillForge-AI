@@ -1,24 +1,26 @@
 # 🚀 SkillForge AI – Personalized AI Career Coach
 
-SkillForge AI is an intelligent career guidance platform built with **Python & Streamlit** that helps users analyze their skills, evaluate career readiness, and get a complete AI-powered roadmap to become job-ready.
+SkillForge AI is an intelligent career guidance system that helps users analyze their skills, track progress, improve resumes, and get a personalized AI-powered career roadmap.
+
+It acts like a smart AI mentor that guides users from beginner level → job-ready level.
 
 ---
 
 ## ✨ Features
 
-- 📊 AI Career Readiness Score Calculator
+- 📊 AI Career Readiness Score
 - 🧠 Smart Skill Gap Analysis
-- 🛣️ Personalized Learning Roadmap
 - 📄 Resume Evaluation & Suggestions
-- 🏆 Recommended Certifications
+- 🛣️ Personalized Learning Roadmap
+- 🎯 Career Path Recommendations
+- 📈 Progress Tracking Dashboard
+- 🏆 Certification Suggestions
 - 💼 LinkedIn & GitHub Optimization Tips
-- 📊 Final AI Career Report (Auto Generated)
-- 📥 PDF Report Download (Coming Soon)
-- 🎯 Project Recommendations System
+- 📥 AI-generated Final Career Report
 
 ---
 
-## 🧠 Supported Career Paths
+## 🎯 Supported Career Paths
 
 - Machine Learning Engineer  
 - AI Engineer  
@@ -30,57 +32,51 @@ SkillForge AI is an intelligent career guidance platform built with **Python & S
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python 🐍  
 - Streamlit 🎈  
-- HTML/CSS (UI Styling) 🎨  
-- Pandas (optional data handling)  
+- HTML / CSS (UI Styling) 🎨  
+- Pandas 📊  
 - Git & GitHub 🔧  
 
 ---
 
-SkillForge-AI/
-│
-├── app.py
-├── style.css
-├── utils.py
-├── resume_data.py
-├── project_data.py
-├── career_roadmaps.py
-├── pages/
-└── assets/
+## 📁 Project Structure
+
+
+app.py
+style.css
+utils.py
+resume_data.py
+project_data.py
+career_roadmap.py
+pages/
+assets/
 
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run
 
 ```bash
 git clone https://github.com/your-username/skillforge-ai.git
 cd skillforge-ai
 pip install -r requirements.txt
 streamlit run app.py
-🌐 Live Demo
-
-(Deploy after Streamlit Cloud setup)
-
-💡 Future Improvements
-Firebase Authentication 🔐
-AI Resume Builder (PDF export upgrade)
-Real-time job matching system
-ML-based recommendation engine
+📌 Key Highlights
+Fully AI-powered career guidance system
+Dynamic scoring based on skills + resume + progress
+Real-world job preparation roadmap
+Clean modern UI using Streamlit
+🔮 Future Improvements
+PDF Resume Generator (Download Feature)
+AI Chatbot Career Mentor
+Firebase Authentication
+Cloud Deployment (Streamlit Cloud / AWS)
+Resume Upload & Parsing
 👩‍💻 Developer
 
-Ayesha Zafar
-Python Developer | AI & ML Enthusiast | Data Science Learner
+Designed and developed by Ayesha Zafar
 
-⭐ Show Some Love
-
-If you like this project:
-
-⭐ Star the repository
-🍴 Fork it
-🔗 Share it on LinkedIn
-
-## 📂 Project Structure
+💡 SkillForge AI – Your Personalized AI Career Coach
