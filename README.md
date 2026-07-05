@@ -13,6 +13,7 @@ It acts like a smart AI mentor that guides users from beginner level → job-rea
 - 📄 Resume Evaluation & Suggestions
 - 🛣️ Personalized Learning Roadmap
 - 🎯 Career Path Recommendations
+- ✨Learning resources links
 - 📈 Progress Tracking Dashboard
 - 🏆 Certification Suggestions
 - 💼 LinkedIn & GitHub Optimization Tips
@@ -46,35 +47,40 @@ It acts like a smart AI mentor that guides users from beginner level → job-rea
 
 
 app.py
+|
 style.css
+|
 utils.py
+|
 resume_data.py
+|
 project_data.py
+|
 career_roadmap.py
+|
 pages/
+|
 assets/
 
 
 ---
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/your-username/skillforge-ai.git
-cd skillforge-ai
-pip install -r requirements.txt
-streamlit run app.py
 📌 Key Highlights
 Fully AI-powered career guidance system
+
 Dynamic scoring based on skills + resume + progress
+
 Real-world job preparation roadmap
+
 Clean modern UI using Streamlit
+
 🔮 Future Improvements
-PDF Resume Generator (Download Feature)
+
 AI Chatbot Career Mentor
+
 Firebase Authentication
-Cloud Deployment (Streamlit Cloud / AWS)
-Resume Upload & Parsing
+
+
 👩‍💻 Developer
 
 Designed and developed by Ayesha Zafar
